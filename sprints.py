@@ -12,11 +12,11 @@ def MyFunc(lst) :
 					maxx= i
 			else:
 				continue
-			return (f'the max float value is {maxx}  and the mean of the even is {mean} ')
+			
 		
 		else:
 			return 0
 			
-			
+	return (f'the max float value is {maxx}  and the mean of the even is {mean} ')		
 			
 	
