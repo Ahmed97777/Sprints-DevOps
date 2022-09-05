@@ -1,7 +1,7 @@
 def MyFunc(lst) :
 	listt = []
 	mean = 0
-	maxx= 0.0
+	maxx= - 700.0
 	for i in lst :
 		if isinstance(i, int) or isinstance(i, float):
 			if isinstance(i, int) and (i%2 = 0 ):
